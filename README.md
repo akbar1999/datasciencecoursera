@@ -1,2 +1,2 @@
 # datasciencecoursera
-Peer-graded Assignment: Course Project
+Course Project
